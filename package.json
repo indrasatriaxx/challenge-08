@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "prepare": "git add . && git commit -m 'deploy'",
-    "develop" : "npm run prepare && git push origin development"
+    "develop" : "npm run prepare && git push origin master"
 
   },
   "eslintConfig": {
